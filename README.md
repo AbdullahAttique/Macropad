@@ -10,7 +10,7 @@ Macropad featuring 6 keys and a volume knob
 - custom 3D printed case
 
 ## Images
-The Keyboard
+The Macropad
 ![The Keyboard](https://github.com/AbdullahAttique/Macropad/blob/main/macropad.jpg?raw=true)
 ![The Keyboard](https://github.com/AbdullahAttique/Macropad/blob/main/macropad%20exposed.jpg?raw=true)
 
